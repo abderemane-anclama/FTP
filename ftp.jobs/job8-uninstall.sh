@@ -1,3 +1,3 @@
 #!/bin/bash
-#suppression paquet + dependances + fichiers configurations
-apt-get autoremove --purge proftpd
+#suppression paquet et fichiers configurations
+sudo apt-get autoremove --purge proftpd

@@ -20,4 +20,9 @@ sudo cp modules.conf /etc/proftpd/modules.conf
 # Restart proftpd
 sudo service proftpd restart
 
+<<<<<<< HEAD
 # apt upgrade
+=======
+# reboot 
+
+>>>>>>> f23cd3e417257b9b0251ca3c91823a52593c7890
